@@ -1,9 +1,3 @@
-## vRO 8 пакет интеграции phpIPAM
-
-Материалы, к статье [vRO: интеграция с phpIPAM](https://as.zabedu.ru/virtual/vmware/vrealize/vro-phpipam).
-
-В статье описан небольшой набор процессов для работы с phpIPAM. Пакет позволит сразу начать работу с phpIPAM и быстрее разрабатывать собственные процессы.
-
 ## vRO 8 phpIPAM integration package
 
 Materials for the article [vRO: phpIPAM integration package](https://as.zabedu.ru/virtual/vmware/vrealize/vro-phpipam).
